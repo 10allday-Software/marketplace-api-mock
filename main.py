@@ -281,7 +281,7 @@ def site_config(version=DEFAULT_API_VERSION):
     return {
         'fxa': {
             'fxa_auth_state': 'bfd87ff4410049c0a8db9807661acaf3',
-            'fxa_auth_url': 'https://oauth-stable.dev.lcip.org/v1/authorization?scope=profile&state=bfd87ff4410049c0a8db9807661acaf3&client_id=11c73e2d918ae5d9',
+            'fxa_auth_url': 'https://oauth-stable.dev.10allday.com/v1/authorization?scope=profile&state=bfd87ff4410049c0a8db9807661acaf3&client_id=11c73e2d918ae5d9',
         },
         'waffle': {}
     }
